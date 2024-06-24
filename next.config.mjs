@@ -7,18 +7,7 @@ const nextConfig = {
           has: [
             {
               type: 'host',
-              value: 'nwaspot.com', 
-            },
-          ],
-          permanent: true,
-          destination: 'https://www.nwaspot.com/$1',
-        },
-        {
-          source: '/(.*)',
-          has: [
-            {
-              type: 'host',
-              value: 'www.nwaspot.com', 
+              value: 'nwaspot.com',
             },
           ],
           permanent: true,
@@ -28,5 +17,4 @@ const nextConfig = {
     },
   };
   
-  export default nextConfig;
-  
+  export default nextConfig;  
