@@ -1,5 +1,5 @@
-# Placeholder Site for NWASpot
+# Placeholder Site
 
-This is a placeholder site for the upcoming NWASpot website. 
+This is a placeholder site for the upcoming Nwa Spot
 
 Stay tuned for exciting updates and features coming soon!
