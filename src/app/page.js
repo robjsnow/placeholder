@@ -17,6 +17,9 @@ export default function Home() {
         <p className={styles.description}>
           Our website is under construction. Stay tuned for something amazing!
         </p>
+        <p className={styles.description}>
+          In the meantime, check out our <a href="/blog">Blog</a>!
+        </p>
       </main>
     </div>
   );
